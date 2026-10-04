@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 
 # Model aur Scaler load karein
-model = pickle.load(open('model_final.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
 scaler = pickle.load(open('scaler.pkl', 'rb'))
 
 
