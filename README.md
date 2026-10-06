@@ -1,6 +1,6 @@
 🏦 Bank Customer Churn Prediction - Jaipur 2024 | Live Project
 
-🔗 **Live Demo:** `https://bank-churn-prediction-2024.streamlit.app` 
+🔗 **Live Demo:** https://bank-churn-prediction-2024.streamlit.app/`` 
 📊 **GitHub:** https://github.com/shekhawatmonika/Bank-churn-prediction-2024
 
 > An end-to-end Machine Learning solution to predict bank customer churn for Jaipur region - with focus on **no overfitting and production-ready deployment**.
